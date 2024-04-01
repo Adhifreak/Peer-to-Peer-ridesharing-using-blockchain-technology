@@ -1,38 +1,21 @@
 
 ## Title of the Project
-A SECURE AND EFFICIENT BLOCKCHAIN-BASED
-BLOOD DONATION AND TRANSFER SYSTEM ON
-THE POLYGON NETWORK
+PEER-TO-PEER RIDESHARING USING BLOCKCHAIN TWCHNOLOGY
 
 ## About
 <!--Detailed Description about the project-->
-The One-Blood project emerges at the intersection of blockchain technology and
-healthcare, with a central focus on revolutionizing the traditional processes of blood
-donation and transfer. In contemporary healthcare systems, ensuring the safety,
-traceability, and timely availability of donated blood is paramount for effective patient
-care. One-Blood addresses these challenges by integrating cutting-edge technologies
-such as Solidity and React to create a secure and transparent platform. Blood donation
-has always been a critical aspect of healthcare, and the project aims to augment this
-process by leveraging the inherent security features of blockchain. Donors can
-contribute blood at campsites or blood banks, and their information, including
-Aadhaar numbers, blood group, and a unique Blood ID, is recorded on an immutable
-blockchain. This initial blockchain entry serves as a foundational step in establishing a
-trustworthy and traceable blood supply chain. However, the significance of the
-One-Blood project extends beyond donor information recording. After the initial
-blockchain entry, the donated blood undergoes rigorous physical testing, with the
-results determining its safety status. The subsequent generation of a QR code,
-incorporating crucial details and a hash of the batch number, ensures the verifiability
-and traceability of each blood packet.
+A blockchain is a public ledger that stores and shares encrypted data among individuals who participate. The public ledger relies on consensus from the majority of participants to verify each transaction. Once entered, information cannot be deleted. The blockchain provides a verified record of all transactions. Taking a cookie from a private location is easier than snatching it from a crowded market place [1]. The Blockchain requires consensus among most candidates to modify the public log. Blockchain can be classed into three types: public, consortium, and private. Public blockchain allows all candidates to provide information and access, whereas collaborative allows just a cluster of candidates to participate. Private blockchain restricts access to the central organization. Satoshi Nakamoto's invention of the cryptocurrency Bitcoin marked the first use of Blockchain technology, which has since been effectively utilized [2]. 
+In 2008, Satoshi Nakamoto issued a paper titled "Bitcoin: A Peer-To-Peer Electronic Cash System". This study proposes a peer-to-peer electronic cash system that enables direct online payments between parties without relying on financial institutions. Bitcoin was the initial manifestation of this concept. The term "cryptocurrencies" refers to any network or means of exchange that uses cryptography to protect transactions, as opposed to systems that rely on a centralized trusted authority. A blockchain is a chronologically series of immutable transactions controlled by a network of computers using specialized computer algorithms. None of the signal entities own these unalterable records.
 
 ## Features
 <!--List the features of the project as shown below-->
--Transparent Blood Supply Chain  
+-Decentralized Network
 
--Enhanced Security and Trust  
+-Smart Contract Management
 
 -Insightful Data Analysis  
  
--Improved Donor Engagement  
+-Improved Driver Engagement  
 
 -Streamlined Record-Keeping and Verification
 
@@ -75,8 +58,7 @@ Encryption Libraries: Integration of encryption techniques requires cryptography
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-In conclusion, the One-Blood project presents a groundbreaking solution to the inherent challenges in traditional blood donation and transfer systems
-By leveraging the power of blockchain technology, smart contract integration, and optimized algorithms, the project addresses critical issues such as inefficiencies in record-keeping, verification challenges
+P2P ride-sharing with blockchain has the potential to revolutionize transportation. Imagine a network where riders and drivers connect directly, eliminating middleman fees and fostering transparency. This vision can be realized through a decentralized network powered by blockchain technology.  A user-friendly mobile app would allow riders to request rides, specify preferences, and track their journey, while drivers could manage availability, set fares, and receive secure payments.  Smart contracts on the blockchain would automate key processes like ride matching, secure payments using cryptocurrency, and even maintain a tamper-proof reputation system. Security and privacy would be paramount, with encryption and minimal data storage on the blockchain. By overcoming challenges like scalability and regulations, and fostering user adoption, this model has the potential to create a future of transportation that is efficient, transparent, and puts users in control.s
 
 
 ## Articles published / References
